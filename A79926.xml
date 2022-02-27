@@ -1,0 +1,403 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at St. Michan's Church in Dublin, February the 23d, 1700. Upon receiving into the communion of the Church of England, the Honble Sir Terence Mac-mahon, Knt &amp; Barnet and Christopher Dunn, converts from the Church of Rome. : Wherein is an account also of a late controversie, betwixt the author and some Romanists. / By John Clayton, Præbendary of St. Michan's.</title>
+            <author>Clayton, John, 1657-1725.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79926</idno>
+            <idno type="STC">Wing C4609A</idno>
+            <idno type="STC">ESTC R37725</idno>
+            <idno type="EEBO-CITATION">17007877</idno>
+            <idno type="OCLC">ocm 17007877</idno>
+            <idno type="VID">172204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172204)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1611:67 or 2617:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at St. Michan's Church in Dublin, February the 23d, 1700. Upon receiving into the communion of the Church of England, the Honble Sir Terence Mac-mahon, Knt &amp; Barnet and Christopher Dunn, converts from the Church of Rome. : Wherein is an account also of a late controversie, betwixt the author and some Romanists. / By John Clayton, Præbendary of St. Michan's.</title>
+                  <author>Clayton, John, 1657-1725.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joseph Ray, and are to be sold at his shop in Skinner-Row, over against the Tholsel.,</publisher>
+                  <pubPlace>Dublin: :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item at 1611:67 identified as Wing C4611 (entry cancelled).</note>
+                  <note>Reproductions of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Macmahon, Terence, --  Sir.</term>
+               <term>Dunn, Christopher, fl. 1700.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Anti-Catholicism --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172204:1" rendition="simple:additions"/>
+            <p>A SERMON PREACH'D At St. <hi>Michan</hi>'s Church in <hi>Dublin, February</hi> the <hi>23d</hi> 1700.</p>
+            <p>Upon Receiving into the Communion of the Church of <hi>England,</hi> The Hon<hi rend="sup">ble</hi> Sir <hi>Terence Mac-mahon,</hi> K<hi rend="sup">nt</hi> &amp; Bar<hi rend="sup">net</hi> and <hi>Chriſtopher Dunn,</hi> CONVERTS From the CHURCH of ROME.</p>
+            <p>Wherein is an Account alſo of a late Controverſie, betwixt the Author and ſome Romaniſts.</p>
+            <p>By <hi>Iohn Clayton,</hi> Praebendary of St. <hi>Michan</hi>'s.</p>
+            <p>
+               <hi>DUBLIN:</hi> Printed by <hi>Joſeph Ray,</hi> and are to be Sold at his Shop in <hi>Skinner-Row,</hi> over againſt the <hi>Tholſel.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:172204:2"/>
+            <pb facs="tcp:172204:2"/>
+            <head>To His GRACE NARCISSUS Lord ARCH-BISHOP OF DUBLIN.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>I Preſume to Dedicate This to Your Grace, upon many Accounts. As having receiv<g ref="char:EOLhyphen"/>ed my Firſt Education, at the Univerſity of <hi>Oxford,</hi> under Your Lordſhip's Care; and am now again Happy, in having Your Grace for my Metrapolitan. It was Your Lordſhip, that did me the Singular Honour, to recom<g ref="char:EOLhyphen"/>mend Sir <hi>Terence Mac-mahon</hi> to my Inſtruction, when my Lord <hi>Inchiquin</hi> brought him to Your
+<pb facs="tcp:172204:3"/> Grace. And it is Your Lordſhip's Great Learning, that can beſt Pro<g ref="char:EOLhyphen"/>tect, Aid, and Aſſiſt Me, and Se<g ref="char:EOLhyphen"/>cure the Cauſe that it Suffer not, through my Defects, and Infir<g ref="char:EOLhyphen"/>mities, if any Subtile Adverſary ſhould Aſſail me. This is Print<g ref="char:EOLhyphen"/>ed at the Requeſt of ſeveral Per<g ref="char:EOLhyphen"/>ſons of Quality, and Others that were my Auditors, and perſwade me that it may be Uſeful to the Publick; and therefore having after all, Your Lordſhip's Appro<g ref="char:EOLhyphen"/>bation, I could not deny to gra<g ref="char:EOLhyphen"/>tifie Them, when thereby alſo I might make an open acknow<g ref="char:EOLhyphen"/>ledgement of Your Graces Great and Manifold Favours.</p>
+            <closer>
+               <signed>Who am Your Graces Moſt Humble and Devoted Servant John Clayton.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:172204:3" rendition="simple:additions"/>
+            <head>A SERMON</head>
+            <epigraph>
+               <bibl>On Matth. XVI Verſ. xviii.</bibl>
+               <q>And I ſay unto Thee, that Thou art <hi>Peter,</hi> and upon this Rock I will baild my Church: And the Gates of Hell ſhall not prevail againſt it.</q>
+            </epigraph>
+            <p>I Having this Day Receiv'd into Our Church, Two Perſons, Converts from the Roman Communion, wherein they were Brought up: The Occaſion ſeems to re<g ref="char:EOLhyphen"/>quire and claim a Diſcourſe that has ſome Reference thereto. And I do not doubt, but that it is expected from all here, that I ſhould expoſe ſome of the Errors and Falſehoods of the Romiſh Doctrine; To ſhew how reaſonable this their Renunciation is, and both to confirm them, and others, in the true Faith. But it may be fruit<g ref="char:EOLhyphen"/>leſs, and in vain, to offer Rational Arguments on this Head, till one main Point be Eſtabliſh'd. As, Whether we are to be guided by Scripture, and confirm'd by the Practices of the moſt Primitive Chriſtians, and be govern'd by clear Arguments of Reaſon, deduced from thence, or no? For if I
+<pb n="2" facs="tcp:172204:4"/> muſt give up my Religion, and Reaſon, abſolutely and intirely to the Church of <hi>Rome,</hi> ſimply to be govern'd in Matters of Faith and Fundamental Doctrines, according to their Pleaſure and Dire<g ref="char:EOLhyphen"/>ctions <note n="*" place="bottom">
+                  <hi>This is a common Preface to the Decre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of the Councel of</hi> Trent, Sacroſancta Oecumenica &amp; generalis Tridentina <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynodus; in Spiritu Sancto ligitime congregata. <hi>And then ſome of them end thus;</hi> Quap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>op<g ref="char:EOLhyphen"/>ter cunctis Chriſti fide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibus interd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cit, ne poſt hac de ijs, aliter vel credere, vel docere, vel predicare audeant. quam eſt his Drecetis explicatum at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> definitum; vid. Concil. Trent Seſs. 13. <hi>C.</hi> 1. Seſs. 21. <hi>C.</hi> 1. &amp;c.</note>. Upon this Principle, That that Church is Infallible, and cannot Err. It is ſuch a Subterfuge for Error and Ignorance, as ſtops all Controverſie, and invalidates all Proofs, and the cleareſt Con<g ref="char:EOLhyphen"/>viction of Reaſon. This, therefore, I take to be one of the moſt material and leading Points, and that which ought to be firſt diſcuſſed. This is as the main Fortification that ſurrounds their whole Camp; and if I can break in upon them, and force this Intrenchment, the reſt will be an eaſie Conqueſt, when we are got once within them, and come to a fair Engagement, having cut off their common Retreat and Coverture.</p>
+            <p>Indeed, the Affirmative being on their part, the Proof lies on their ſide; which ſhould be clearly, fully, and infallibly Demonſtrated by them, other<g ref="char:EOLhyphen"/>wiſe it is the moſt precarious Principle of all others; being only eſtabliſh'd on its own Autho<g ref="char:EOLhyphen"/>rity. And according to their Tenents, it cannot be built on any other. For if this be the only In<g ref="char:EOLhyphen"/>fallible Guide, and all other things Fallible; unleſs we allow the Authority of its own Aſſertion, it can have no other then a fallible Proof and Teſtimony;
+<pb n="3" facs="tcp:172204:4"/> and it follows then, that they may be deceived and miſtaken, and that their Church may not be Infal<g ref="char:EOLhyphen"/>lible, unleſs it demonſtrate its own veracity by a continued ſeries, of Infallible Truths.</p>
+            <p>And upon this ſcore it is, that the Controverſy enters betwixt us, about the Certainty or Incertain<g ref="char:EOLhyphen"/>ty of this Infallibility. Which it is requiſite to ex<g ref="char:EOLhyphen"/>amine by ſuch matters of Fact, as may give the fulleſt demonſtration thereof, that the nature of the thing will admit.</p>
+            <p>And yet before we come to this part, they com<g ref="char:EOLhyphen"/>monly take us up with ſeveral deluſive Arguments, and ſpend time about ſome Expreſſions that have a ſurpriſing Sound, as if they favour'd their Aſſer<g ref="char:EOLhyphen"/>tion, but when they come to the Teſt, have no reference to any ſuch matter.</p>
+            <p>We allow and hold the Scriptures to be the un<g ref="char:EOLhyphen"/>doubted Word of GOD, and therefore an Infalli<g ref="char:EOLhyphen"/>ble Word of Truth. If therefore they can prove by Scripture, an Infallibility conferr'd on their Church, it is a ſufficient Refutation as to us; nor would I Cavil about the various Contradictions it meets with, in the reſt of their Principles. For I am fairly for the Truth, and would have all Trifling laid aſide. And hereupon then, as to this point, I dare Engage the whole Body of their Clergy, and of all the Roman Party.</p>
+            <p>They uſe then Three ſorts of Arguments, brought from Scripture, to prove their Infallibility.</p>
+            <p>Either from ſuch Words, as are here contained in my Text, <hi>that refer</hi> (as they call it) <hi>to the Keys of the Kingdom of Heaven, being conferr'd in particu<g ref="char:EOLhyphen"/>lar on St.</hi> Peter, <hi>and ſo on his Succeſſors in the Church of</hi> Rome.</p>
+            <pb n="4" facs="tcp:172204:5"/>
+            <p>Or from Words more generally ſpoken, <hi>as</hi> Mat<g ref="char:EOLhyphen"/>thew 28. 20. <hi>And Lo! I am with you always, even unto the End of the World.</hi> So John 14. 26. <hi>But the Comforter, which is the Holy Ghoſt, whom the Fa<g ref="char:EOLhyphen"/>ther will ſend in my Name, he ſhall teach you all things and bring all things to your remembrance, whatſoever I have ſaid unto you.</hi> And John 16. 13. <hi>When the Spirit of Truth is come, he will guide you into all Truth.</hi> And ſo likewiſe the laſt Words of my Text, ſingly, and by themſelves apply'd, are brought to Chime in amongſt the reſt. <hi>And the Gates of Hell ſhall not prevail againſt it.</hi>
+            </p>
+            <p>Or Thirdly, from a parity of Reaſon, betwixt theirs, and the Jewiſh Church, <note n="*" place="bottom">
+                  <hi>This Argument the Papiſt Miſrepreſented and Repreſented makes uſe of, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o do moſt of their Authors:</hi> Belarmine <hi>urges he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eupon<g ref="char:punc">▪</g> Exod.</hi> 28 Jubet Dominus in Rationali Pontificis ſummi pom Doctrinam, &amp; veritatem &amp; <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ute<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on.</hi> 17. Qui indicabunt tibi judicij veritatem. Bel. De. Romano Pont. L. 4. C. 3.</note> which they ſay was Infallible, and would prove it from <hi>Matth.</hi> 23. 2. Where (ſay they) for this reaſon, our Saviour commanded the People to have all ſtrict regard to <hi>the Scribes and Phariſees, that ſat in</hi> Moſes <hi>Chair, all therefore whatſoever they bid you obſerve, that obſerve, and do.</hi> And then they urge, that the Argument holds ſtronger as to the Chriſtian Church, for now is our Faith built on more ſure, and eſtabliſh'd on better Promiſes, and on a more firm and compleat Word of Truth, according to <hi>Hebrews</hi> 8. 6.</p>
+            <p>To all which, our Church has given very full Anſwers, and ſhown how Mean, Trivial and Tri<g ref="char:EOLhyphen"/>fling a way of Arguing they Uſe. In that they wreſt the plain ſenſe of theſe Texts, to a quite different meaning, then ever was intended.</p>
+            <pb n="5" facs="tcp:172204:5"/>
+            <p>I will indeed allow them, that if the Jewiſh Church was Infallible, then the Romiſh Church is alſo Infallible. But if the Jewiſh Shanedrim knew not, nor owned the Lord of Life, but erred in the main Article of their Faith, relating to the <hi>Meſſias</hi> and Crucifi'd <hi>Chriſt:</hi> If <hi>Pontius Pilate</hi> put Him to Death, at the Inſtigation of the <note n="a" place="margin">Matth. 12. 22.</note> 
+               <hi>Chief Prieſts and Elders.</hi> And if <hi>Caiaphas</hi> 
+               <note n="b" place="margin">John 11. 49</note> 
+               <hi>who was that Year the High-Prieſt,</hi> was particularly in the Conſpiracy, and Ring-leader <note n="c" place="margin">Matth. 26. 3, 57.</note> thereof. Let them boaſt of their Paralel Principles, and Arguments of more Vali<g ref="char:EOLunhyphen"/>dity, I ſhall take them to be what Chriſt called thoſe Scribes &amp; Phariſees, but <note n="d" place="margin">Matth. 15. 14. 23. 16.</note> 
+               <hi>Blind-Guides,</hi> and Men of the worſt Principles, <hi>Blind, Leaders of the Blind.</hi> And that <hi>it will be more tollerable for</hi> Sodom <hi>and</hi> Gomorrah <hi>in the Day of Judgment, then for them.</hi>
+            </p>
+            <p>And Secondly, Then as to thoſe general Pro<g ref="char:EOLhyphen"/>miſes they inſtance in by thoſe ſeveral Texts of Scripture before cited, they prove nothing againſt us, if they were allow'd to refer to this matter: For being ſpoke indefinitely to the Church diffuſive, there would be nothing determined thereby, but the Controverſy would ſtill remain. Whether our Church? or their Church? or ſome other amongſt the various Sects in the World? were thus Infalli<g ref="char:EOLhyphen"/>ble? Theſe were Promiſes made to all the Apoſtles at large, to St. <hi>James,</hi> and St. <hi>John,</hi> as well as to St. <hi>Peter,</hi> that he would give them the Spirit of Truth, the Holy Ghoſt, to reveal to them all neceſſary Truths, for the Eſtabliſhment of his Church, which after<g ref="char:EOLhyphen"/>wards he would accordingly preſerve to the end of the World, ſo as that it ſhould never ceaſe to be a Church, that there ſhould never ceaſe to be a true
+<pb n="6" facs="tcp:172204:6"/> Chriſtian Church here on Earth. But there is no Promiſe that does Import, that he would preſerve it from all Errors, ſo as to render it Infallible. The truth of theſe Revelations, and of Chriſt's Church is preſerved; and I doubt not hereupon, but it will be preſerved to the end of the World, in the Scrip<g ref="char:EOLhyphen"/>tures and Apoſtles Creed, and ſo forth, and in a certain number of faithful People, that ſhall hold and ſtand firm in that Faith, throughout all Ages. And ſo in the darkeſt times of Ignorance, <note n="*" place="margin">About the 10th Century called <hi>Saeculum Obſcurum.</hi>
+               </note> which was when Popery was moſt prevalent, there were ſtill a Remnant of God's People, of whom it might be ſaid, as of thoſe of old, when there were a <hi>Remnant of ſeveral Thouſands left that bow'd not the Knee to</hi> Baal, which latent numbers of Orthodox were the true viſible Church on Earth; and St. <hi>Paul</hi> makes application of this Text, 1 <hi>Kings</hi> 19. 18. to the ſame uſe, <hi>Rom.</hi> 11. 4.</p>
+            <p>Therefore to come to the Third ſort of Proofs, whereby they would prove a particular and ſingular Grant, Aſſigned by Chriſt to St. <hi>Peter,</hi> and to his Succeſſors of the Church of <hi>Rome.</hi> This, indeed, if it could be made clear, would be to the purpoſe. But there are a great many Propoſitions and Parts contain'd herein; that if Critically Examin'd, would more than puzzle them to make out. But taken in groſs they are ſo confuſed, and fluctuate ſo very ſtrangely in their Opinions, and Aſſer<g ref="char:EOLhyphen"/>tions, as to this matter, that there is no fixing of them, or binding of them to be Determin'd there<g ref="char:EOLhyphen"/>by.</p>
+            <p>My Text is one of the ſtrongeſt of this Nature that they produce, which therefore I ſhall Anſwer. And for this I need not particularly Expound the
+<pb n="7" facs="tcp:172204:6"/> Words. For at once I ſhall give a plain Anſwer to all that can be ſaid on this Text, and all others they produce of the like nature.</p>
+            <p>For theſe Words muſt be either ſpoke directly to St. <hi>Peter</hi> in particular, or elſe to all the Apoſtles in general. If to all the Apoſtles, then according to this Interpretation, all the Apoſtles, and all their <note n="*" place="bottom">Summa poteſtas Eccleſiaſtica non ſolum data eſt Petro, ſed etiam alijs Apoſtolis Bellarmin De. Rom. Pontif. <hi>L. 1. C.</hi> 9. Omnes fuerunt Capita &amp; Paſtores Univerſae Eccleſiae, Ibid. C. 11. <hi>But then he adds.</hi> Sed Petro data eſt ut Ordinario Paſtori cui perpetuò ſuccederetur; aliis tanquam delegatis quibus non ſuccederetur. Fuit enim in illis Eccleſiae primordiis neceſſarium ad fidem toto Orbe Terrarum celeriter diſſemi<g ref="char:EOLhyphen"/>nandam, ut primis praedicatoribus &amp; Eccleſiarum fundatoribus ſumma poteſtas, &amp; libertas concederetur Mortuis autem Apoſtolis, Apoſtolica authoritas in ſolo Petri ſucceſſore permanſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>This is Anſwered by the Biſhop of</hi> Granada, <hi>and the Biſhop of</hi> Paris, <hi>when the ſame was urged in the Councel of</hi> Trent. <hi>That it was an Audacious Saying without Ground, Authority, or Reaſon, Invented about 50 Years before by</hi> Cajetan, <hi>to obtain a Cardinals Cap, but had been Ignomini<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſly Cenſured by the Di<g ref="char:EOLhyphen"/>vines of the</hi> Sorbon <hi>ſince, and was unknown to former Ages, being in<g ref="char:EOLhyphen"/>conſiſtent with the</hi> 20th <hi>of</hi> Matth. Verſ. 20. vid. <hi>Hiſt. Council of</hi> Trent, <hi>by</hi> Pietro Polano, Octob. 13. 1562.</note> Succeſſors, have an equal pretence to Infallibi<g ref="char:EOLhyphen"/>lity, as St. <hi>Peter,</hi> and his Succeſſors have. Which confounds their Notion, and the grand Authority of their Church, which therefore they will not allow. Therefore on the other Hand, if theſe Words were directed to St. <hi>Peter</hi> in particular, then the Pope of himſelf muſt be Infallible, without the aſſiſtance of a Councel, which is contrary to the Tenents of all the Perſons of the Romiſh Church I meet with; for they utterly deny it, and when they can be got to declare themſelves on this Head, they ſay, it is the Pope, together with his Councel that is Infallible, but not otherwiſe.</p>
+            <pb n="8" facs="tcp:172204:7"/>
+            <p>And hereupon it is, That they rarely put ſtreſs on any Scripture Proofs as to this point, but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſtly to Tradition, as giving them the largeſt Scope, and being moſt beyond the Capacity of the Vulgar. And for which they can bring a company of their own Forgeries and Authors, and ſo never want a Proof. So far at leaſt as to invert the Order of Diſpute, and like ſubtle Attorneys, to make us become Plantiffs inſtead of Defendants. Yet our Caſe is ſo Plain and Good, that we never refuſe thus to joyn Iſſue, if ſo that they will but firſt fix their Principle, and declare where it is, that they place this Infallibility.</p>
+            <p>And hereupon, in a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Diſpute, that I might not ſpend time in vain Proofs, I deſired that they would lay down ſome ſingle poſitive Aſſertion as to this Infallibility, which accordingly was done. <hi>That they held the Pope and Council together to be Infallible.</hi>
+            </p>
+            <p>Hereupon I made this Poſition. That if I then proved one Pope and Council had made final De<g ref="char:EOLhyphen"/>crees in Fundamentals of Faith, and that other Popes and Councils with as full Authority had de<g ref="char:EOLhyphen"/>creed the direct contrary, as to the ſaid Fundamen<g ref="char:EOLhyphen"/>tals of Faith and Doctrine, it muſt be notorious that one of them had Erred, and the Notion of Infallibility be deſtroyed and proved falſe. This was allowed, and agreed to, and this I the rather undertook, becauſe it utterly deſtroys Infallibility, wherever it be be placed. Whether in the Pope ſolely, or in the Council ſolely, or in the Pope and Council conjunctly.</p>
+            <pb n="9" facs="tcp:172204:7"/>
+            <p>And hereupon I drew up the following Inſtances in Writing, and gave them to be ſhown to their Prieſts, or to whoever would undertake to Anſwer them.</p>
+            <p>My firſt Inſtance was in the <hi>Conſtantinopolitan</hi> Council, held by Pope <hi>Vigilius,</hi> the Account whereof briefly is this. The <hi>Neſtorian</hi> Hereſie that deny'd Chriſt to be God, being revived by <hi>Theodorus,</hi> Biſhop of <hi>Mopſveſtia;</hi> and by <hi>Theodoret,</hi> Biſhop of <hi>Cyrus,</hi> againſt <hi>Cyril;</hi> and in the Epiſtle of <hi>Ibas,</hi> Biſhop of <hi>Edeſſa</hi> to <hi>Maris;</hi> which were called the Three Chapters; Fierce Diſputes aroſe in the Church, whereupon the Emperor called a Coun<g ref="char:EOLhyphen"/>cil to <hi>Conſtantinople</hi> to ſettle this Affair; but Pope <hi>Vigilius</hi> could not be brought over to joyn with them, but called another Council of himſelf, of <hi>Affrican, Illirian, Italian, and other Weſtern Biſhops,</hi> and with extraordinary Application and Diligence they Compoſed a large Decree, <note n="*" place="margin">
+                  <hi>This Council is Extant at large in the</hi> Concilia Max<g ref="char:EOLhyphen"/>ima, Paris è Typographiâ Regia 1644. Tom. 11.</note> containing Sixty Pages in Folio, that it might in every Reſpect be Correſpondent to the Gravity and Authority of the Pope and ſuch a Council; and that likewiſe it might be Satisfactory <hi>to the Emperour,</hi> 
+               <note n="a" place="margin">Quatenus habito Deo auxiliante, tractatu, definitionis noſtrae, conſtituto die Scripto, ſententiam diceremus: Ad Fratres Coepiſcopos noſtros, a quibus ſimiliter de eadem cauſa reſponſum vos flagitare dixiſti. Vid. <hi>Conſtitutum Vigilij Papae de tribus Capitulis.</hi>
+               </note> 
+               <hi>and that other Synod that was Aſſembled by him;</hi> and alſo as it is Worded, <hi>to the whole Catholick Church, as a publick Direction in Faith to them all,</hi> calling it <hi>a Conſtitution, a Statute, a Decree, and a Definitive Sentence,</hi> and as ſuch was Subſcribed <note n="b" place="margin">Juvante Deo &amp; per ipſius gratiam Vigilius Epiſcopus Sanctae Ec<g ref="char:EOLhyphen"/>cleſiae Catholicae urbis Romae huic Conſtituto noſtro Subſcripſi.</note> by <hi>Vigi<g ref="char:EOLhyphen"/>lius</hi>
+               <pb n="10" facs="tcp:172204:8"/> himſelf, and by all the reſt of the Biſhops and Deacons, which were as many as were in ſeveral Aſſemblies of the Grand Council of <hi>Trent.</hi> The Sum then of this Conſtitution, or Decree, was the Defence of the Three aforeſaid Chapters, and in effect a downright Vindication, and aſſertion of Neſtorianiſm, that (as is aforeſaid) deny'd the Divinity of our Saviour, which Hereſie had been condemned by the General Council of <hi>Chalcedon</hi> before, and by many Councils ſince. So that here is Pope and Council, againſt Pope and Council, making ſolemn Decrees point Blank contradictory in Matters of Faith.</p>
+            <p>Hereunto were added other Inſtances, as in Pope <hi>Liberius,</hi> 
+               <note n="a" place="bottom">Sozomen. Lib. 4. Cap. 14. Hierom. de Script. Eccleſ. in Fortu natiano. Epiſt. Liberij Epiſcopis Orientalibus. Liberij Epiſt. Urſacio yalenti &amp; Germano. Et ad Vincentium.</note> that confirm'd Arianiſm, and in Pope <hi>Honorius,</hi> 
+               <note n="b" place="bottom">Concil. Conſtant. General. 6. Actione 13.</note> that eſtabliſh'd Monothletiſm.</p>
+            <p>That the Sacrament ſhould be receiv'd in both Kinds, was the conſtant Doctrine of the whole Church many Hundreds of Years, confirm'd and eſtabliſh'd in General by all the Popes and Coun<g ref="char:EOLhyphen"/>cils, until thoſe late Councils of <note n="c" place="bottom">Concil. Conſt. Seſſ. 13.</note> 
+               <hi>Conſtance,</hi> 
+               <note n="d" place="bottom">Concil. Baſil. Seſſ. 30.</note> 
+               <hi>Baſil</hi> and <note n="e" place="bottom">Concil. Trent. Seſſ. 21. C. 2.</note> 
+               <hi>Trent.</hi> And therefore either all the Popes and General Councils, for at leaſt a <note n="f" place="bottom">Caſlander Confut. Art. 22. P. 981.</note> Thouſand, or Twelve <note n="g" place="bottom">Card. Bona Rerum Liturg. L. 2. C. 18. P. 862.</note> Hundred Years, Erred, or elſe later Popes and Councils Erred, and whether ſoever it be, it deſtroys Infallibility.</p>
+            <pb n="11" facs="tcp:172204:8"/>
+            <p>There was a Council held at <hi>Braga,</hi> 
+               <note n="a" place="bottom">Habitum anno 4. Bambae Regis tempore Adeodati Papae A. D. 675. Aut integra Sacramenta accipiant, aut ab integris arceantur. Ge<g ref="char:EOLhyphen"/>laſius Majorco &amp; Johanni Epiſcopis, apud Ivon decret. part 2. C. 8, 9. Excommunicari illos praecipit Gelaſius Papa Microlog. Cap. 19.</note> about Dipping the Bread in the Wine, and ſo Adminiſtring it for the whole Communion, which Cuſtom ſome Perſons offered to introduce. But the Coun<g ref="char:EOLhyphen"/>cil Condemned this Practice, becauſe (ſay they) it is <hi>repugnant to the Doctrine of the Goſpel, and to the Cuſtom of the Church, and to the Inſtitution of Chriſt the fountain of Truth,</hi> who gave the Cup by it ſelf, ſay<g ref="char:EOLhyphen"/>ing, <hi>Drink ye all of this:</hi> And likewiſe he took the Bread by it ſelf, ſaying, <hi>Take, Eat,</hi> &amp;c. And thereupon they Anathematize, all that abrogate, or alter this Inſtitution. And the Council of <note n="b" place="bottom">Ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Sancta ipſa Synodus, a Spiritu Sancto (qui Spiritus eſt Sa<g ref="char:EOLhyphen"/>pientiae &amp; intellectus. Spiritus Conſilij &amp; pietatis) edocta, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ipſius Eccleſiae judicium &amp; Conſuetudinem ſecuta, declarat ac docet, nullo divino praecepto Laicos &amp; Clericos non Conficientes, obligari ad Euchariſtiae Sacramentum ſub utra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſpecie ſumendum: ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o pacto ſalva ſide dubitari poſſe, quin illis alterius ſpeciei Communio ad ſalu<g ref="char:EOLhyphen"/>tem ſufficiet. Nam etſi Chriſtus Dominus in ultima Caena venerabile hoc Sacramentum in Panis &amp; Vini ſpeciebus inſtituit &amp; Apoſtolus tra<g ref="char:EOLhyphen"/>didit. Non tamen illa inſtitutio &amp; traditio eo tendunt, ut omnes Chriſti fideles ſtatuto Domini ad utram<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſpeciem accipiendam adſtringan<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. Concil. Trident. Seſs. 21. Cap. 1. <hi>Whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eupon ſeveral Canons were made, as,</hi> Si quis dixerit ex Dei precepto, vel neceſſitate ſalutis, omnes &amp; ſingulos Chriſti fideles utram<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſpeciem ſanctiſſimi Euchariſtiae Sacra<g ref="char:EOLhyphen"/>menti ſumere debere Anathema ſit. Canon. 1.</note> 
+               <hi>Trent,</hi> 
+               <note n="c" place="bottom">Nullatenus ambigendum eſt, quod non ſub ſpecie Panis Caro tantum, nec ſub ſpecie Vini Sanguis tantum<g ref="char:punc">▪</g> ſed ſub qualibet ſpecie eſt integer totus Chriſtus. Concil. Baſil. Seſſ. 30.</note> 
+               <hi>Baſil</hi> and <note n="d" place="bottom">Concilium S. Generale Conſtant<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe in Sp. Sto. legitime con<g ref="char:EOLhyphen"/>gregatum, declarat, decernit, &amp; definit, quod licet Chriſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſub utra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſpecie, &amp;c.—Et ſimiliter, quod li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et in primitiva Eccle<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a hujuſ<g ref="char:EOLhyphen"/>modi Sacramentum reciperetur a fidelibus ſub utra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſpecie—Tamen a Laicis tantummodo ſub ſpecie Panis ſuſcipiatur—Qua propter dicere hanc Conſuetudinem, aut legem obſervare ſit Sacrile<g ref="char:EOLhyphen"/>gum aut illicitum cenſeri debet erroneum &amp; pertinaciter aſſerentes oppoſitum praemiſſorum tanquam Haeretici arcendi ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt &amp; graviter puniendi—Quod nullus Pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>byter ſub paena Excommunicationis, communicet populum ſub utra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſpecie Panis &amp; Vini. Item ipſa Sancta Synodus decernit &amp; declarat ſuper ipſa materia, ut effectualiter puniant eos contra hoc decretum excedentes, qui communicando populum ſub utra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſpecie Panis &amp; Vini exhortati fuerint, &amp; ſic faci<g ref="char:EOLhyphen"/>endum eſſe docuerint, &amp; ſi ad paenitentiam redire non curaverint, animo indurato, per cenſuras Eccleſiaſticas per eos ut Haeretici ſunt coercendi Concil. Conſtant. Seſſ. 13.</note> 
+               <hi>Conſtance,</hi> command <hi>That they be Excom<g ref="char:EOLhyphen"/>municated,
+<pb n="12" facs="tcp:172204:9"/> who, contrary to their Decree, Exhort the People to Communicate in both kinds, of Bread and Wine, and do take upon them to Adminiſter the Sacra<g ref="char:EOLhyphen"/>ment to the People after that manner, and requires, that they be treated as Hereticks, if they perſiſt in ſo doing without Repentance.</hi>
+            </p>
+            <p>The Council of <note n="a" place="bottom">Binius ex Baronio Not. 1. in Laodicen. Concil. Hoc Concil<g ref="char:EOLhyphen"/>lium antiqua nobilitate celeberrimum, Graecorum at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Latinorum Scriptis celebri memoriae commendatum fuit<g ref="char:punc">▪</g>
+               </note> 
+               <hi>Laodicea</hi> excludes thoſe Books, commonly called the Apocripha, from the Canon of Scripture. And the Canons of this Coun<g ref="char:EOLhyphen"/>cil were received into the Code <note n="b" place="bottom">Canon. de Libel. Diſtinct. 20. Cod. Can. Ecclaeſ. Univer.</note> of the Uni<g ref="char:EOLhyphen"/>verſal Church, and confirm'd by the <note n="c" place="bottom">Concil. Chalcedon. Act. 4. Act 11. Act. 13.</note> 4th and <note n="d" place="bottom">Concil. Conſtantinop. in Trullo. Can. 2. <hi>And by Imperial Law of the Emperor</hi> Juſtinian. Novel. 131.</note> 6th of their General Councils, which is di<g ref="char:EOLhyphen"/>rectly contrary to the Doctrine of the Church of <hi>Rome,</hi> ſettled by later Councils.</p>
+            <p>The Council of <hi>Baſil</hi> depoſed the <note n="e" place="bottom">
+                  <hi>Pope</hi> Eugenius IV. <hi>Conſtituted</hi> Amadeus <hi>the Duke of</hi> Savoy <hi>Pope,</hi> viz. Felix V.</note> Pope, and condemned the Council <note n="f" place="bottom">Jac. Meyerus in Annalibus Flandr. Lib. 16. Baſilienſe &amp; Flo<g ref="char:EOLhyphen"/>ren<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ium adeo nihil Concordiae habebant, ut utrum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> alterum Synago<g ref="char:EOLhyphen"/>gam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Satanae nominaret.</note> of <hi>Florence.</hi>
+            </p>
+            <pb n="13" facs="tcp:172204:9"/>
+            <p>The Lateran Council under <note n="a" place="bottom">Seſſ. 40. habita Maij 4. Anno. Dom. 1515. Concilium Con<g ref="char:EOLhyphen"/>ſtantienſe ubi definit Concilium eſſe ſupra Papam, reprobatum eſt in Concilio Florentino &amp; Lateranenſi ultimo. Bellar. de Concil. L. 1. C. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Leo.</hi> 10. de<g ref="char:EOLhyphen"/>creed Infallibility to be in the Pope alone, and that he had a Superiority and Supremacy in himſelf alone, above all Councils.</p>
+            <p>The Councils of <note n="b" place="bottom">Seſſ. 45.</note> 
+               <hi>Conſtance</hi> and <note n="c" place="bottom">Concil. Baſil Seſſ. 2. apud Binnium, Tom. 8. p. 22. Seſſ. 18. p. 55. Seſſ. 33. p. 95. Seſſ. 38. p. 101.</note> 
+               <hi>Baſil</hi> decree <hi>the Superiority of a General Council above the Pope, and that they have Authority to Decree matters of Faith without him.</hi>
+            </p>
+            <p>And one of their Decrees runs thus. <note n="*" place="margin">Concil. Baſil. Seſſ. 23. 37. Conſil. Conſt. Seſſ. 39</note> 
+               <hi>That for the future every one that is to be choſen Pope, ſhall in the Name of the Father, Son, and Holy Ghoſt, with Heart, and Mouth, profeſs to God Almighty, and to bleſſed</hi> Peter, <hi>firmly to believe and hold, as long as he ſhall live, the Holy Catholick Faith, according to the Traditions of the Apoſtles, and the General Councils, and in particular of the General Councils of</hi> Lateran, Lyons, Vienna, Conſtance, <hi>and</hi> Baſil, <hi>and to keep that Faith, to a tittle unchanged, and to Preach, Con<g ref="char:EOLhyphen"/>firm and Defend it with their Life and Blood.</hi> And the following Popes, till after the time of <hi>Eugenius</hi> the IV. made this Profeſſion.</p>
+            <p>They Decreed alſo, <note n="†" place="margin">Concil. Baſil. Seſſ. 2.</note> That General Councils have Authority immediately from Chriſt, and that the Pope himſelf is bound, and obliged to ſtand to the Declaration and Definition of theſe Councils. And further ſays, This is a <note n="d" place="bottom">Veritas fidei Catholicae Concil. Baſil. Seſſ. 33. Cenſendus eſt haereticus—ſine interitu ſalutis. Idem.</note> Truth belonging
+<pb n="14" facs="tcp:172204:10"/> to the Catholick Faith, which, who Pertinaciouſly reſiſts is to be deemed a Heretick, being an Arti<g ref="char:EOLhyphen"/>cle of Faith, which cannot be neglected without the loſs of Salvation. Theſe Decrees were Eſta<g ref="char:EOLhyphen"/>bliſh'd by Pope <note n="*" place="margin">Vid. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inn. Concil. Baſil. Seſſ. 29. Seſſ. 38.</note> 
+               <hi>Martin</hi> V. and by virtue hereof <hi>John</hi> III. and <hi>Benedict</hi> XIII. were depoſed, and hereby <hi>Eugenius</hi> IV. was made Pope.</p>
+            <p>And yet Popery, as they have newly Modell'd it, advances a third Poſition, that Infallibility is in the Church ſomewhere; which my Adverſary very Candidly, to ſave a fruitleſs Search, fix'd in the Pope and Council together.</p>
+            <p>So that here are Three Poſitions contrary one to another about this Infallibility; and place the In<g ref="char:EOLhyphen"/>fallibility where you pleaſe, there is accordingly an infallible Determination that there is no ſuch Infal<g ref="char:EOLhyphen"/>libility in any of them. For when they have ſaid all they can on this laſt Point, which ſeems the ſtrongeſt, and let them ſet it off with as much Pomp and Oſtentation of Words as poſſibly they can, the aforeſaid Inſtances can never be anſwer'd; and it is further manifeſt that this is only a Collu<g ref="char:EOLhyphen"/>ſion and Mask to convey the Pope's Infallibility into the Hearts of the People. For when they ſay the Pope is Infallible, General Councils are Infal<g ref="char:EOLhyphen"/>lible, the Church is Infallible; it is plain they ne<g ref="char:EOLhyphen"/>ver meant to make three diſtinct Infallibilities, but one Infallibility, which muſt reſt virtually in the Pope, for otherwiſe the Church would be always without an Infallible Guide, but when a Council ſits. To evade this, they ſay at other times, the Church and Council is virtually in the Pope, who, by a Synechdoche, is Infallible. Then the Pope is always Infallible but when a Council ſits, and
+<pb n="15" facs="tcp:172204:10"/> hereby is a freſh occaſion given for that Flout that was paſt on the Council of <hi>Trent,</hi> about the Pope's ſending to them the Holy Ghoſt in a Port-Mantue. And thus there is nothing more plain, then that they Center this Infallibility in the Pope ſimply. But the Papiſt Miſ-repreſented and Repreſented <note n="*" place="margin">In the Chap of the I falli<g ref="char:EOLhyphen"/>bility of the Church.</note> ſays, He <hi>Believes, That the Paſtors and Prelates of his Church are Fallible.</hi> What, without an Equivo<g ref="char:EOLhyphen"/>cation? Does he herein include the Pope? Honeſt Men deliver themſelves as plainly as they can poſ<g ref="char:EOLhyphen"/>ſibly contrive, eſpecially in ſuch Matters. But this ſeems Equivocal, for otherwiſe, why does he lay the Foundation of this Infallibility on ſuch places of Scripture as my Text, and the like? For there is not one Tittle or Word that can refer to placing an Infallibility in St. <hi>Peter</hi> in Council only; but if their Infallibility be derived hence, and founded hereupon, it muſt be in St. <hi>Peter</hi> ſimply, and yet as if it were out of a Divine Preſcience, to determine ſuch Diſputes and Controverſies, and Pretenſions, the very next thing that follows, ſhows that St. <hi>Peter</hi> was ſo far from being Infallible, that he ſo groſly Erred, as to cauſe the ſame Gracious Lord Jeſus Chriſt to ſay within Five Verſes of my Text, unto the ſaid <hi>Peter, Get thee behind me Sa<g ref="char:EOLhyphen"/>tan,</hi>
+               <note place="margin">Mat. 16. 23.</note> 
+               <hi>thou art an offence unto me, for thou ſavoureſt not the things that be of GOD, but thoſe that be of Men.</hi> And ſo St. <hi>Paul</hi> found him in a great Error, when he met him at <hi>Antioch, and withſtood him</hi>
+               <note place="margin">Gal. 2. 11.</note> 
+               <hi>to the face, becauſe he was to be blamed.</hi> And in<g ref="char:EOLhyphen"/>deed he was ſo great an indulger of that Error and Faction, which the Grand Apoſtolick Council was called to Reform and Correct, that he may be ſaid to be one of the Principle Ring-leaders thereof, till
+<pb n="16" facs="tcp:172204:11"/> God ſhew'd him a particular Viſion, to reveal to him his Error, a little before that Council was held. It is certain, they have been much at a loſs where to fix this Infallibility, and therefore have invented theſe ſeveral Poſitions, to place it ſometimes in the Pope, ſometimes in the Council, ſometimes in the Pope and Council, all which (I think) I have proved abſolutely Falſe, and that this Uncertainty is be<g ref="char:EOLhyphen"/>cauſe it is really no where.</p>
+            <p>So that the Doctrine of Infallibility, inſtead of being ſo advantagious to their Church as they pre<g ref="char:EOLhyphen"/>tend, is the greateſt diſtracting Principle imagina<g ref="char:EOLhyphen"/>ble, it is the Mother of Error, a Cloak for Igno<g ref="char:EOLhyphen"/>rance, an Abuſe and Cheat, and only an Artificial Contrivance, to deceive and captivate ſilly poor Souls; and never was ſtarted, thought on, con<g ref="char:EOLhyphen"/>trived or heard of in the World, for above a Thou<g ref="char:EOLhyphen"/>ſand Years after Chriſt's time.</p>
+            <p>This was the Purport of what I gave in Writing, and it was ſhew'd (as I underſtand) to ſeveral of the Roman Clergy in this Kingdom. And all the An<g ref="char:EOLhyphen"/>ſwer that I got in ſome Months time, was, <hi>That they were the Crabbedeſt, or Knottieſt Inſtances could have been pitch'd on, and that they had not the con<g ref="char:EOLhyphen"/>veniency of Books to Anſwer them.</hi> It was then ſent for <hi>England,</hi> (as I was inform'd) and after a long time came a moſt tedious Anſwer, which I could never get a Copy of. I had indeed the Peruſal of it, and made Anſwer it would be too great an Avoca<g ref="char:EOLhyphen"/>tion for me that have ſo great a Cure, to reply to every thing I thought Faulty therein; and would too much diſtract the Diſpute, that the Concluſion would not be ſo evident. But, <hi>If they would pitch upon any one Inſtance, that would clearly decide the
+<pb n="17" facs="tcp:172204:11"/> Controverſie, I would be bound to be Determined thereby;</hi> thereupon <hi>the firſt Inſtance was choſen,</hi> that I was urged to make a Reply to; that about <hi>Vigilius.</hi>
+            </p>
+            <p>
+               <hi>The Anſwer owned, That there was ſuch a Council or Aſſembly, and according a Conſtitution or Decree Extant, made by them and</hi> Vigilius, <hi>which contain'd Erroneous Doctrines in points of Faith, but ſaid this was made when</hi> Vigilius <hi>was a Pſeudo-Pope.</hi>
+            </p>
+            <p>And gave an Hiſtorical Account of <hi>Vigilius</hi> out of <hi>Platina,</hi> or ſome of their Authors; telling how Vile a Perſon <hi>Vigilius</hi> was at firſt, and laid on him a load of Infamy; telling by what corrupt Dealings, and by what profane Intereſt in the Empreſs <hi>Theodora,</hi> he Uſurp'd the Seat of Pope <hi>Sylverius,</hi> and got to be Pope; during whoſe Life-time he was therefore a Pſeudo, or falſe Pope, and it was then, that he made this Decree.</p>
+            <p>I ſhall make no Reply to this Obloquie, being therein they only vomit forth their own Shame. But, <hi>ſays the Anſwer, after</hi> Sylverius'<hi>s Death, the Spirit of God came upon him, &amp; he immediately receded from his former Ele<g ref="char:EOLhyphen"/>ction, till he was choſen again, and then became a true Pope, and a Holy Father of the Church.</hi> This I ſuppoſe was added, to inſinuate what a Divine Inſpiration of Infallibility there is at the time of their Acceſſion to the Chair, when they are duely and regularly made Popes. But to be ſhort, and come to the ſtreſs of the Point in Debate; which was laid herein. <hi>Whether this Conſtitution was made before</hi> Sylverius'<hi>s Death, or no? That is, Whether it was made whilſt</hi> Vigilius <hi>was a falſe, or a true Pope?</hi> It is a plain ſingle Point, and I will venture the whole upon it. For, <hi>If I do not prove, that this Council was call'd, and held, and the Decree made ſeveral Years after</hi> Sylverius'<hi>s Death, I'le turn Papiſt; if my Adverſary will but as fairly engage to turn Prote<g ref="char:EOLhyphen"/>ſtant,
+<pb n="18" facs="tcp:172204:12" rendition="simple:additions"/> if I prove it very fully.</hi> 
+               <note n="*" place="margin">Datum pri<g ref="char:EOLhyphen"/>die Idus Maij imperante Do<g ref="char:EOLhyphen"/>mino noſtro J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtiniano per<g ref="char:EOLhyphen"/>petuo Auguſto Anno 27. poſt Conſulatum Viri clariſſimi Anno 12. in Conſtantino<g ref="char:EOLhyphen"/>politana Civi<g ref="char:EOLhyphen"/>tate.</note> The Date then of this Decree runs thus. <hi>Conſtituted the 14th Day of</hi> May, <hi>in the 27th Year of the Reign of our Sovereign Lord the Em<g ref="char:EOLhyphen"/>peror</hi> Juſtinian, <hi>and in the 12th Year after the Conſulat<g ref="char:EOLhyphen"/>ſhip of that Renowned Man</hi> Baſilius, <hi>in the City of</hi> Con<g ref="char:EOLhyphen"/>ſtantinople. This is Extant at the end of the Decree in the <hi>Paris</hi> Edition of the Councils, at large, <hi>èTypo<g ref="char:EOLhyphen"/>graphia Regia,</hi> 1644. But <hi>Binnius,</hi> and ſome others, have purpoſely (as I ſuppoſe) omitted the Date and Subſcriptions, though they have all the reſt of the Decree at large, yet at the beginning, he has in the Margent, ſet a Note, that <hi>Baronius</hi> has placed this in the 553 <hi>d.</hi> Year of our Redemption. 13 Years after <hi>Syl<g ref="char:EOLhyphen"/>verius</hi>'s Death.</p>
+            <p>Obſerve then here is a double date; one, that it was the <hi>27th</hi> Year of <hi>Juſtinians</hi> Reign; the other, the <hi>12th</hi> Year after <hi>Baſilius</hi> Conſulatſhip; and what is further remarkable, that I would have you Note, that <hi>Baſi<g ref="char:EOLhyphen"/>lius</hi> was the laſt Conſul, and ſo the Ephoca, or man<g ref="char:EOLhyphen"/>ner of dating is altered the Year after <hi>Baſilius</hi> was Conſul, for whereas before they Dated things from ſuch a Year of the Emperors Reign, and when ſuch, and ſuch Perſons, were Conſuls. They then changed the method of Dating, to ſuch a certain Year after <hi>Baſilius</hi> was Conſul, all which clearly denotes there could be no accidental miſtake in the Date.</p>
+            <p>Let us now ſee then what Year <hi>Sylverius</hi> Died, and for this I take their own great Author <note n="†" place="bottom">Jeſu Chriſti Annus 540. Vigilij Pap. Annus 1. Juſtiniani Imp. 14. Vitigis Reg. 4. Qui ſequitur Annus Quadrageſſimus ſupra quingen<g ref="char:EOLhyphen"/>teſſimum aſcriptus faſtis reperitur conſulatu ſolius Juſtini tu addas Collegam Paulinum, Juniorem dictum.—Quo Anno Sylverius Papa in Inſula Palmaria releg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tus confectus aerumnis, conſumptuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> inedia diem tandem clauſit extremum Duodecimo Kalenda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Julij.—Quod autem aliqui nec duos Annos cjus ſedi concedunt, inde id eveniſſe liquet, quod abſurde admodum numerent ejus ſedis tempusuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad Vigilij intruſionem tantum, cum ipſe Sylverius e ſede expulſus eſt at vero uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad conſummatum Martyrium ſemper ipſum legitimum perſeveraſſe Pontificem<g ref="char:punc">▪</g> Baroni Antv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rpiae ex officina Plantiniana 1603. Tom. 7.</note> 
+               <hi>Baronius.</hi> And he places the Death of <hi>Vigilius</hi> in the 14th Year of the
+<pb n="19" facs="tcp:172204:12"/> Emperor <hi>Juſtinians</hi> Reign, and in the Conſulatſhip of <hi>Juſtinus,</hi> and <hi>Paulinus,</hi> who were immediate Conſuls before <hi>Baſilius.</hi>
+            </p>
+            <p>So then, <hi>Sylverius</hi> Dying the 14th Year of <hi>Juſtinian,</hi> and the Date of the Conſtitution, being the 27th Year of <hi>Juſtinian,</hi> it is plain <hi>Vigilius,</hi> if ever was a true Pope, and had been ſo 13 Years, and ſo alſo by the other Date. For <hi>Juſtinus</hi> and <hi>Paulinus</hi> being Conſuls the Year before <hi>Baſilius,</hi> and the Date of the Conſtitution being the <hi>12th</hi> Year after <hi>Baſilius</hi> was Conſul, in like manner confirms, that it was 13 Years after <hi>Vigilius</hi> was a Right Pope. Nothing in the World can be more plain and poſitive, and though I have deliver'd this in Writing above Half a Year ſince, I hear nothing in re<g ref="char:EOLhyphen"/>turn, and therefore I ſhall not add any thing more here<g ref="char:EOLhyphen"/>to, for if I would have Enlarged, I could have ſhown that the greateſt Share of that Story about <hi>Vigilius,</hi> and the <hi>Empreſs,</hi> is a late Invention of their Authors, and Hiſtorians, purpoſely contrived, to conceal and cloak this matter. Now Mortal Men have ſuch Imper<g ref="char:EOLhyphen"/>fect Reaſon, that they may be liable to Miſtakes, for ſo only <hi>GOD is True, but every Man a Liar,</hi> that is, they are ſubject to Error. And therefore I do not contemn or hate any Man on that Account, if I could but think he had Candor, and a good Conſcience, that he were ſincere, and honeſt in his Principle. But when Men plainly ſee they are in an Error, to have them forge Untruths, for Religion's ſake, to coyn New Hiſtories, forge New Inventions to deceive themſelves, and others, it is ſuch a <hi>Pia Fraus</hi> or Religious Cheat, as is moſt Im<g ref="char:EOLhyphen"/>pious,
+<pb n="20" facs="tcp:172204:13"/> and Abominable. What a ſtrange Current there is in Men's Natures to Vice, that Men ſhould ever think to ſerve God with Falſhood, and Forgeries, and be begotted to Principles that they themſelves Invent, for no other end, but to enſlave themſelves with all; ſuch is an unhappy Zeal. Whereas to contend for the Truth, with Candor and Honeſty, to be Zealouſly affected for Righteouſneſs with Simplicity and Singleneſs of Heart, is true Piety and Zeal, as well as hearty Religion. For God loves a Tenderneſs of Conſcience, as well as a Flaming Affection, but the Conjunction of one with the other makes the Bleſſed Temper of a Chriſtian. Let us therefore ſhew forth our Faith by our Works, for ſuch are the moſt prevalent Arguments; for the greateſt part cannot but be under jealous Apprehenſions, that we have the Truth on our ſides, if we had but the Teſtimony of good Works to Illu<g ref="char:EOLhyphen"/>ſtrate our Profeſſion. Let us therefore with Holy Lives, with the confounding Evidence of Moral Principles, as well as of an Orthodox Faith, endeavour to Convert and Gain many more Proſelites. For thus God may perhaps make us the Bleſſed Inſtruments of turning many to Righteouſneſs, and to the ac<g ref="char:EOLhyphen"/>knowledgment of the Truth. So as that they may recover them<g ref="char:EOLhyphen"/>ſelves out of the Snare of the Devil, and though we ſhould fail of preſerving theirs, we may be ſure to ſave our own Souls. But, <hi>Turn Thou them O Good Lord, and then will they be Turned, Be fa<g ref="char:EOLhyphen"/>vourable be favourable, O Lord to that People, out of Thy Great and Tender Mercy. For Thou art full of Compaſſion, Long-Suffering, and of great Pity; nor wouldſt the Death of a Sinner, but rather that he ſhould be Converted and Live. Have Mercy therefore upon all Jews, Turks, Infidels and Hereticks, and take from them all Ig<g ref="char:EOLhyphen"/>norance, hardneſs of Heart, and contempt of Thy Word; and ſo bring them home to Thy Flock, that they may be ſaved amongſt the Remnant of the true Iſraelites, and be made one Fold under one Shep<g ref="char:EOLhyphen"/>herd. Jeſus Chriſt our Lord, who Liveth and Reigneth, with Thee, and the Holy Spirit, one God, World without End.</hi>
+            </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
